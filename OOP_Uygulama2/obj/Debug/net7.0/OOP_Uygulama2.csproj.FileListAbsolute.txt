@@ -1,0 +1,14 @@
+C:\Users\Emir Bakkal\Desktop\unity 101\OOP_Uygulama2\bin\Debug\net7.0\OOP_Uygulama2.exe
+C:\Users\Emir Bakkal\Desktop\unity 101\OOP_Uygulama2\bin\Debug\net7.0\OOP_Uygulama2.deps.json
+C:\Users\Emir Bakkal\Desktop\unity 101\OOP_Uygulama2\bin\Debug\net7.0\OOP_Uygulama2.runtimeconfig.json
+C:\Users\Emir Bakkal\Desktop\unity 101\OOP_Uygulama2\bin\Debug\net7.0\OOP_Uygulama2.dll
+C:\Users\Emir Bakkal\Desktop\unity 101\OOP_Uygulama2\bin\Debug\net7.0\OOP_Uygulama2.pdb
+C:\Users\Emir Bakkal\Desktop\unity 101\OOP_Uygulama2\obj\Debug\net7.0\OOP_Uygulama2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir Bakkal\Desktop\unity 101\OOP_Uygulama2\obj\Debug\net7.0\OOP_Uygulama2.AssemblyInfoInputs.cache
+C:\Users\Emir Bakkal\Desktop\unity 101\OOP_Uygulama2\obj\Debug\net7.0\OOP_Uygulama2.AssemblyInfo.cs
+C:\Users\Emir Bakkal\Desktop\unity 101\OOP_Uygulama2\obj\Debug\net7.0\OOP_Uygulama2.csproj.CoreCompileInputs.cache
+C:\Users\Emir Bakkal\Desktop\unity 101\OOP_Uygulama2\obj\Debug\net7.0\OOP_Uygulama2.dll
+C:\Users\Emir Bakkal\Desktop\unity 101\OOP_Uygulama2\obj\Debug\net7.0\refint\OOP_Uygulama2.dll
+C:\Users\Emir Bakkal\Desktop\unity 101\OOP_Uygulama2\obj\Debug\net7.0\OOP_Uygulama2.pdb
+C:\Users\Emir Bakkal\Desktop\unity 101\OOP_Uygulama2\obj\Debug\net7.0\OOP_Uygulama2.genruntimeconfig.cache
+C:\Users\Emir Bakkal\Desktop\unity 101\OOP_Uygulama2\obj\Debug\net7.0\ref\OOP_Uygulama2.dll
